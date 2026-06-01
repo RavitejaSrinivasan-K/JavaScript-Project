@@ -1,0 +1,4 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","49886","Handling Multiple Tabs","chromium","2026-05-21","passed","2026-05-21","","window.spec.js","",""
+"","23693","Handling Check Boxes","chromium","2026-05-21","passed","2026-05-21","","practice.spec.js","",""
+"","30050","Handling Multiple Windows","chromium","2026-05-21","passed","2026-05-21","","window.spec.js","",""
