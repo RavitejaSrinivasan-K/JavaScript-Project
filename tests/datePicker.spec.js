@@ -30,7 +30,7 @@ test("Handling Date Picker"  , async ({page})=>{
         break
       }
 
-      await page.click('//span[text()=""]')
+      await page.click('//span[text()="Next"]')
     //   await page.click('//span[text()="Prev"]')
 
     }
